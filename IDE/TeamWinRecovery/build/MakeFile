@@ -1,0 +1,6 @@
+-include ../../../build/core/main.mk
+ all: $(PROG)
+	echo -e "woot";
+
+
+    
